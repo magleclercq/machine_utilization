@@ -14,3 +14,5 @@ The script renders a list with the following components:
 6. Plot: For all machines
 
 Here is a view of the plot representing machine utilization of all machines during that month:
+
+![alt text](https://github.com/magleclercq/machine_utilization/blob/master/utilization_plot.png?raw=true)
